@@ -1,0 +1,16 @@
+.square{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+
+}
+.square2{
+    background-color: rgb(0, 0, 0);
+   
+}
+.centered-text {
+    text-align: center;
+    line-height: 250px; 
+    color: white;
+    font-size: 20px;
+}
